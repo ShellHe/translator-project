@@ -112,7 +112,7 @@ if a==("你真会思考"):
 if a ==("you are smart"):
     print("你真会思考哦")
         
-if a==("不怕 我们来想想办法"):
+if a==("不怕我们来想想办法"):
     print("Do not worry, let's think about it")
 if a ==("do not worry let's think about it"):
     print("不怕 我们来想想办法")
@@ -139,7 +139,7 @@ if a ==("i am so happy with you"):
  
     
 else:
-    print("Sorry, alpaca ate the word")
+    print("Alpaca ate the word")
     print("┏┛┻━━━┛┻┓")
     print("┃｜｜｜｜｜｜｜┃")
     print("┃　　　━　　　┃")
