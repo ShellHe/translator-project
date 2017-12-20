@@ -1,12 +1,16 @@
 # translator-project
 
-Shell He
-Computer Science 
-Oct 30 17
-Mr Aronson
+Big Picture
+A translator that can translate in English to Chinese and Chinese to English 
 
+First Ground
+first be able to translate the most common terms and sentences in Chinese
 
-The program I am going to create in this project is a translator that can translate English to Chinese and Chinese to English. This translator will first be able to translate the most common terms and sentences in Chinese. And then it will be open to more words. Ultimately, when the whole project is done, the tester will be able input a voice message in Chinese and get an English output. 
-	The part I can accomplish in two weeks is to create a simple translator that can only translate from text to text. I will first input all the English words that I want this translator to translate to Chinese and test it this program works. And then I will put in more words. 
+Test Plan for the First Ground
+able to translate 30 basic phrases in both languages and if error, there is going to be a llama showing up
 
+Relections and revisions
+Sometimes the llama showed up even there was no error, so I change the code to if/else conditionals
 
+Next Steps
+More amount of words and more complex words
