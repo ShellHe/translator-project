@@ -13,4 +13,4 @@ Relections and revisions
 To make my program interesting and different from other translation programs, I put a llama when there is an error or when the words from the user is not existing in the list. However, sometimes the llama showed up even there was no error, so I change the code to if/else conditionals
 
 Next Steps
-More amount of words and more complex words. I will also add more phrases and combinations of words.
+Make the program more complex to connect to the google translator api. 
