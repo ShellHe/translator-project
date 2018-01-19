@@ -7,8 +7,8 @@ def intochinese():
     for i in translations:
         if i[0] == a:
             print(i[1])
-        else:
-            llama()
+            return
+    llama()
 
 
 def intoenglish():
@@ -16,10 +16,12 @@ def intoenglish():
     for i in translations:
         if i[1] == a:
             print(i[0])
-        else:
-            llama()
+            return
+    llama()
+
           
 def llama():
+    
        print("llama ate the word")
        print("┏┛┻━━━┛┻┓")
        print("┃｜｜｜｜｜｜｜┃")
