@@ -1,7 +1,7 @@
 # translator-project
 
 Big Picture
-A translator that can translate in English to Chinese and Chinese to English. It will be avaliable for both text and voice recognition. And it will be available on website and mobile app. The other user said the program is so far good, but needs more amount of words.
+A game with a tank shooting different english vocabs. After shooting, the words bomb and show up the chinese translation.
 
 First Round
 First be able to translate the most common terms and sentences in Chinese. Right now, there are 50 phrases available. Later, I will be improve it to 100 words. The other users can use it by typing the things they want to know how to say in Chinese or English and transilate
