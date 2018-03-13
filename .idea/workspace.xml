@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4f095f-624a-4680-8f50-6973b7099bc7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/MSAIN.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TEXT.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/translator-project.iml" afterPath="$PROJECT_DIR$/.idea/translator-project.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/../pygame/examples/aliens.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="257" column="26" lean-forward="true" selection-start-line="254" selection-start-column="8" selection-end-line="257" selection-end-column="26" />
+              <caret line="257" column="26" lean-forward="false" selection-start-line="254" selection-start-column="8" selection-end-line="257" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -48,18 +49,30 @@
         <entry file="file://$PROJECT_DIR$/../pygame/examples/fonty.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <caret line="13" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MSAIN.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MSAIN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MSAIN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="80" column="52" lean-forward="false" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="52" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TEXT.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TEXT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#19#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,12 +105,13 @@
         <option value="$PROJECT_DIR$/201.py" />
         <option value="$PROJECT_DIR$/fonnnnn.py" />
         <option value="$PROJECT_DIR$/MSAIN.py" />
+        <option value="$PROJECT_DIR$/TEXT.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="230" />
-    <option name="y" value="65" />
+    <option name="x" value="67" />
+    <option name="y" value="41" />
     <option name="width" value="1117" />
     <option name="height" value="570" />
   </component>
@@ -133,6 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MSAIN">
+  <component name="RunManager" selected="Python.TEXT">
     <configuration name="201" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,6 +198,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="TEXT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="translator-project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEXT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="aliens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,16 +234,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.201" />
       <item index="1" class="java.lang.String" itemvalue="Python.aliens" />
       <item index="2" class="java.lang.String" itemvalue="Python.MSAIN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TEXT" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.MSAIN" />
-        <item index="1" class="java.lang.String" itemvalue="Python.aliens" />
-        <item index="2" class="java.lang.String" itemvalue="Python.201" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.TEXT" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MSAIN" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aliens" />
+        <item index="3" class="java.lang.String" itemvalue="Python.201" />
       </list>
     </recent_temporary>
   </component>
@@ -239,10 +274,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="230" y="65" width="1117" height="570" extended-state="0" />
+    <frame x="67" y="41" width="1117" height="570" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28648165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -340,7 +375,7 @@
     <entry file="file://$PROJECT_DIR$/../pygame/examples/fonty.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <caret line="13" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -348,16 +383,26 @@
     <entry file="file://$PROJECT_DIR$/../pygame/examples/aliens.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="257" column="26" lean-forward="true" selection-start-line="254" selection-start-column="8" selection-end-line="257" selection-end-column="26" />
+          <caret line="257" column="26" lean-forward="false" selection-start-line="254" selection-start-column="8" selection-end-line="257" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MSAIN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="46">
+          <caret line="80" column="52" lean-forward="false" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
