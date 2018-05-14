@@ -4,13 +4,13 @@ Big Picture
 A game with a tank shooting different english vocabs. After shooting, the words bomb and show up the chinese translation.
 
 First Round
-First be able to translate the most common terms and sentences in Chinese. Right now, there are 50 phrases available. Later, I will be improve it to 100 words. The other users can use it by typing the things they want to know how to say in Chinese or English and transilate
+make this program available for 100 words to play with
 
 Test Plan for the First Ground
-able to translate 50 basic phrases in both languages and if error, there is going to be a llama showing up. The user is prompted to enter an English phrase. User enters "Hello" The program prints "Nihao". Or, the user enters "Nihao", the program returns "Hello"
+when the user type the answers, it would be able to tell the results
 
 Relections and revisions
-To make my program interesting and different from other translation programs, I put a llama when there is an error or when the words from the user is not existing in the list. However, sometimes the llama showed up even there was no error, so I change the code to if/else conditionals
+I am still working on the basic typing window.
 
 Next Steps
-Make the program more complex to connect to the google translator api. 
+make this program available for the first word "good morning"
