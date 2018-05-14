@@ -20,7 +20,6 @@ SCREENRECT     = Rect(0, 0, 640, 480)
 SCORE          = 0
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
-
 def load_image(file):
     "loads an image, prepares it for play"
     file = os.path.join(main_dir, 'data', file)
@@ -300,7 +299,7 @@ def main(winstyle = 0):
         for bomb in pygame.sprite.spritecollide(player, bombs, 1):
             boom_sound.play()
             Explosion(player)
-        Explosion(bomb)2SWAQ!
+        Explosion(bomb)
             player.kill()
 
         #draw the scene
