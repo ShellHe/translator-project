@@ -84,7 +84,7 @@ def main():
     pygame.display.flip()
     while 1:
         # use event.wait to keep from polling 100% cpu
-        if pygame.event.wait().type in (QUIT, KEYDOWN, MOUSEBUTTONDOWN):
+        if pygame.event.wait().type in (QUIT, KEYDOWN):
             break
 
 
